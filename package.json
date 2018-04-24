@@ -1,8 +1,8 @@
 {
-    "name": "Sbarro Belarus",
-    "displayName": "Sbarro",
-    "version": "1.0.2",
-    "description": "Sbarro Belarus App",
+    "name": "Dominos Belarus",
+    "displayName": "Dominos",
+    "version": "2.0.1",
+    "description": "Dominos Belarus App",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
