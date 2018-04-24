@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="io.sbarro.mobilewrapper" version="1.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Sbarro</name>
+<widget id="by.mc.dominos.com" version="2.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Dominos</name>
     <description>
     
     </description>
-    <author email="v_tkachuk@sbarro.by" href="https://sbarro.by">
+    <author email="vkozlovu@gmail.com" href="https://dominos.by">
     </author>
     <content src="index.html" />
     <access origin="*" />
